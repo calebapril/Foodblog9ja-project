@@ -1,6 +1,3 @@
-/* Google font */
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
-
 /* variables css */
 :root{
     --header-height: 3rem;
@@ -14,7 +11,7 @@
     --container-color:#ffffff;
 
     /* font and typography */
-    --body-font: 'EB Garamond', serif;
+    --body-font: 'Poppins', serif;
     --biggest-font-size: 2.25rem;
     --h1-font-size: 1.5rem;
     --h2-font-size: 1.25rem;
